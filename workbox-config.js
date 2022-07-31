@@ -1,9 +1,9 @@
 module.exports = {
-	globDirectory: '.',
+	globDirectory: 'docs/',
 	globPatterns: [
-		'**/*.{css,js,eot,svg,ttf,woff,woff2,jpeg,html,json,md,xml}'
+		'**/*.{css,js,eot,svg,ttf,woff,woff2,jpeg,html,json,xml}'
 	],
-	swDest: 'sw.js',
+	swDest: 'docs/assets/js/sw.js',
 	ignoreURLParametersMatching: [
 		/^utm_/,
 		/^fbclid$/
