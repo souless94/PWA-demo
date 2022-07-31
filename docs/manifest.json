@@ -1,1 +1,20 @@
-{"short_name":"PWA","name":"PWA-Demo","icons":[{"src":"/assets/img/dogs/image3.jpeg","type":"image/jpeg","sizes":"600x800"},{"src":"/assets/img/dogs/image2.jpeg","type":"image/jpeg","sizes":"600x800"}],"start_url":"/","background_color":"#ffffff","theme_color":"#4e73df","display":"fullscreen"}
+{
+  "short_name": "PWA",
+  "name": "PWA-Demo",
+  "icons": [
+    {
+      "src": "assets/img/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#4e73df",
+  "display": "fullscreen"
+}
